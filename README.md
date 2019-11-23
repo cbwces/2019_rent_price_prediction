@@ -1,7 +1,7 @@
 # 2019_rent_price_prediction
 2019 AI FUTURELAB city rent house price prediction TOP9
 
-*path*
+**path**
 ${DATASET_DIR} :training set
 ${TESTSET_DIR}: testing set
 ${MODEL_DIR}: model path
