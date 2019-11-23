@@ -9,3 +9,5 @@ ${PREDICTION_FILE}: prediction checkpoint path
 
 switch path to the root of "DATASET_DIR", "TESTSET_DIR", "MODEL_DIR", "PREDICTION_FILE"
 python3 house_price_lgb1.py; python3 house_price_lgb2.py; python3 ensemble.py
+
+model ensembling with pinlank: https://github.com/pinlank
